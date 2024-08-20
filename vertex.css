@@ -255,7 +255,7 @@ header .container .navbar .icon i:hover{
       border-radius: 6px;
       font-weight: 500;
       color: var(--color);
-      background-color: white;
+      background-color: rgb(55, 54, 54);
     }
     
     .about .container .cols .text button:before {
