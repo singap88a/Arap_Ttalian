@@ -1759,10 +1759,7 @@ header .container .navbar .icon i:hover{
                     header .navbar .logo img{
                       width: 150px;
                     }
-                    header .navbar .fa-facebook-f,
-                    header .navbar .fa-linkedin{
-                           display: none;
-                    }
+                
 
 
                   }
